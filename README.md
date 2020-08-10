@@ -4,8 +4,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title></title>
-  <style type="text/css"></style>
   <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 </head>
 
