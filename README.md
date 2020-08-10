@@ -1,9 +1,16 @@
 # 数学常用公式markdown格式汇总
 
-```
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+  <style type="text/css"></style>
+  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+</head>
 
+<body>
+  <div>
 
 $\Gamma$、$\iota$、$\sigma$、$\phi$、$\upsilon$、$\Pi$、$\Bbbk$、$\heartsuit$、$\int$、$\oint$
 
@@ -54,3 +61,8 @@ x(n+1)
 $$
 
 $$\int\int\int_{1}^{100}{x^2}dx$$
+
+  </div>
+</body>
+
+</html>
