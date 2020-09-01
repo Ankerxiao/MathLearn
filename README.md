@@ -1,15 +1,5 @@
 # 数学常用公式markdown格式汇总
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-</head>
-
-<body>
-  <div>
-
 $\Gamma$、$\iota$、$\sigma$、$\phi$、$\upsilon$、$\Pi$、$\Bbbk$、$\heartsuit$、$\int$、$\oint$
 
 $\tan$、$\sin$、$\cos$、$\lg$、$\arcsin$、$\arctan$、$\min$、$\max$、$\exp$、$\log$
@@ -18,9 +8,8 @@ $+$、$-$、$=$、$>$、$<$、$\times$、$\div$、$\equiv$、$\leq$、$\geq$、$
 
 $\cup$、$\cap$、$\in$、$\notin$、$\ni$、$\subset$、$\subseteq$、$\supset$、$\supseteq$、$\N$、$\Z$、$\R$、$\R$、$\infty$
 
-$f(x)=\frac{P(x)}{Q(x)}$
-
 $$f(x)=\frac{P(x)}{Q(x)}$$
+
 
 $$2x - 5y =  8$$
 $$3x + 9y =  -12$$
